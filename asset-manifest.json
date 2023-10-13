@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NickAtumJunior/new-gh-pages/static/css/main.073c9b0a.css",
+    "main.js": "/NickAtumJunior/new-gh-pages/static/js/main.13cc10f6.js",
+    "static/js/787.bde58847.chunk.js": "/NickAtumJunior/new-gh-pages/static/js/787.bde58847.chunk.js",
+    "static/media/logo.svg": "/NickAtumJunior/new-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/NickAtumJunior/new-gh-pages/index.html",
+    "main.073c9b0a.css.map": "/NickAtumJunior/new-gh-pages/static/css/main.073c9b0a.css.map",
+    "main.13cc10f6.js.map": "/NickAtumJunior/new-gh-pages/static/js/main.13cc10f6.js.map",
+    "787.bde58847.chunk.js.map": "/NickAtumJunior/new-gh-pages/static/js/787.bde58847.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.13cc10f6.js"
+  ]
+}
